@@ -5,14 +5,14 @@ Mes cours s'appuient sur les méthodes actuelles du développement logiciel afin
 J'anime également des initiatives pour diffuser la culture informatique et encourager la diversité dans les métiers techniques.***  
 
 🌱 **En ce moment, je m'intéresse à l'IA générative et aux LLM et regroupe les ressources que je trouve intéressantes [ici](https://github.com/iblasquez/ia-generative).**  
-✍️ Je viens d'écrire un [tutoriel sur la prise en main d'un assistant de code basé sur l'IA générative : Copilot & Co](https://github.com/iblasquez/tuto-copilot-genai), qui présente différents cas d'usage ainsi que les avantages et limites de cet outil.  
+✍️ Je viens d'écrire un [tutoriel sur la prise en main d'un assistant de code basé sur l'IA générative : Copilot & Co](https://github.com/iblasquez/tuto-copilot-genai), qui présente différents cas d'usage ainsi que les avantages et limites d'un tel outil.  
 
 ## 📚 Enseignement autour du génie logiciel et du développement agile  
 
 ### BUT Informatique 1ère année  
 
 - [**R2.01** : Développement orienté objets (COO/POO)](https://github.com/iblasquez/enseignement-but1-developpement)  
-- [**R2.03** : Qualité de développement (Git, tests unitaires, qualité de code)](https://github.com/iblasquez/enseignement-but1-developpement)  
+- [**R2.03** : Qualité de développement (git, tests unitaires, qualité de code)](https://github.com/iblasquez/enseignement-but1-developpement)  
 
 ### BUT Informatique 2ème année  
 
@@ -32,7 +32,11 @@ J'anime également des initiatives pour diffuser la culture informatique et enco
 - *Ubiquitous Language, Behavior-Driven Development, Example Mapping, Test-Driven Development*  
 - *Computer Science Education*  
 
-📄 [Publications ORCID](https://orcid.org/0009-0001-1529-7885)  
+📄 **Publications** :  
+
+- 🔗 [ORCID](https://orcid.org/0009-0001-1529-7885)  
+- 🔗 [HAL-Science IRIT](https://hal.science/IRIT/search/index/q/*/authFullName_s/Isabelle%20Blasquez)  
+- 🔗 [Anciennes thématiques (LICN) : Modélisation géométrique & Géométrie intégrale](https://iblasquez.github.io)  
 
 ## 🎭 Médiation et diffusion de la culture scientifique  
 
@@ -53,8 +57,9 @@ J'anime également des initiatives pour diffuser la culture informatique et enco
 ### 💡 Sensibilisation du grand public et promotion de la diversité  
 
 - **Conceptrice et facilitatrice d'activités ludiques et pédagogiques pour le grand public** :  
-  - 🎲 [**Atelier de vulgarisation avec des briques de construction**](https://www.youtube.com/watch?v=ynZ4bui4O8M) : Exploration des différentes phases d'un développement logiciel à travers une approche concrète et interactive, avec (*Why Women Code* & *Aliptic*).  
-  - 🕵️‍♂️ [**Parcours d'énigmes numériques**](https://www.museomixlim.fr/retour-en-images-parcours-enigmes-numeriques/) *(au Musée de la Résistance - Code Week & MuseomixLim)*.  
+  - 🛠️ [**Développement logiciel de A à Z (Agile à Zoo)**](https://www.youtube.com/watch?v=ynZ4bui4O8M) *(pour Why Women Code)* :  
+    Exploration des différentes étapes du développement logiciel à travers une approche ludique et interactive basée sur des briques de construction.  
+  - 🕵️‍♂️ [**Parcours d'énigmes numériques au Musée de la Résistance**](https://codeweek.eu/blog/code-week-in-limoges-a-sabotage-mission) *(pour Code Week, avec MuseomixLim)*.  
 
 - **Engagement associatif** :  
   - Membre de [MuseomixLim](https://www.museomixlim.fr)  
