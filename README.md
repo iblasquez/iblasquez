@@ -1,9 +1,11 @@
-
 # 🎓 Maître de conférences - Université de Limoges / IUT du Limousin  
 
-***Passionnée par le génie logiciel et le développement agile, je travaille à la croisée de l'informatique académique et du monde professionnel.
-Mes enseignements s'appuient sur les pratiques actuelles du développement logiciel pour garantir un apprentissage ancré dans la réalité du métier.
-J'anime également des initiatives pour promouvoir la culture informatique et encourager la diversité des métiers techniques.***  
+***Passionnée par le génie logiciel et le développement agile, je navigue entre le monde académique et professionnel pour connecter enseignement et pratiques concrètes.  
+Mes cours s'appuient sur les méthodes actuelles du développement logiciel afin d'offrir un apprentissage ancré dans la réalité du métier.  
+J'anime également des initiatives pour diffuser la culture informatique et encourager la diversité dans les métiers techniques.***  
+
+🌱 **En ce moment, j'explore l'IA générative et regroupe les ressources que je trouve intéressantes [ici](https://github.com/iblasquez/ia-generative).**  
+✍️ Je viens d'écrire un [tutoriel sur la prise en main d'un assistant de code basé sur l'IA générative : Copilot & Co](https://github.com/iblasquez/tuto-copilot-genai), qui présente différents cas d'usage ainsi que les avantages et limites de cet outil.  
 
 ## 📚 Enseignement autour du génie logiciel et du développement agile  
 
@@ -34,7 +36,7 @@ J'anime également des initiatives pour promouvoir la culture informatique et en
 
 ## 🎭 Médiation et diffusion de la culture scientifique  
 
-### 🌍 Synergie entre le monde académique et les entreprises  
+### 🌍 Synergie entre le monde académique et professionnel  
 
 #### 🚀 **LimouziCodev : la communauté Craft en Limousin**  
 
@@ -42,7 +44,7 @@ J'anime également des initiatives pour promouvoir la culture informatique et en
 - 📍 *Coding Dojo* tous les 15 jours, le jeudi à 18h30 dans les locaux de l'Aliptic (au Hub).  
 - 💬 **Échangez avec la communauté sur Discord** accessible via [LimouziCodev](https://limouzico.dev/).  
 
-#### 🎤 **Conférencière dans des événements nationaux pour développeurs**  
+#### 🎤 **Oratrice dans des événements nationaux pour développeurs**  
 
 - 🏗️ [**Sensibilisation aux bonnes pratiques techniques du Software Craftsmanship : Lego® à la rescousse !**](https://github.com/iblasquez/atelier-bonnes-pratiques-tdd-lego)  
 - 🧩 [**Découvrir Event Storming et le quotidien des développeurs**](https://github.com/iblasquez/atelier-event-storming-scratch)  
