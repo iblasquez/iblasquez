@@ -1,8 +1,8 @@
 
 # 🎓 Maître de conférences - Université de Limoges / IUT du Limousin  
 
-***Passionnée par le génie logiciel et le développement agile, je travaille à la croisée de l'informatique académique et du monde professionnel.  
-Mes enseignements s'appuient sur les pratiques actuelles du développement logiciel pour garantir un apprentissage ancré dans la réalité du métier.  
+***Passionnée par le génie logiciel et le développement agile, je travaille à la croisée de l'informatique académique et du monde professionnel.
+Mes enseignements s'appuient sur les pratiques actuelles du développement logiciel pour garantir un apprentissage ancré dans la réalité du métier.
 J'anime également des initiatives pour promouvoir la culture informatique et encourager la diversité des métiers techniques.***  
 
 ## 📚 Enseignement autour du génie logiciel et du développement agile  
@@ -14,8 +14,8 @@ J'anime également des initiatives pour promouvoir la culture informatique et en
 
 ### BUT Informatique 2ème année  
 
-- [**R2.03** : Analyse (Cadrage des exigences agiles) : **the *right* product**](https://github.com/iblasquez/enseignement-but2-developpement/blob/master/R303_Analyse_CadrageAgile.md)  
-- [**R2.04** : Qualité de développement (SOLID, Design patterns, tests, refactoring) : **the product *right***](https://github.com/iblasquez/enseignement-but2-developpement/blob/master/R304_QualiteDeveloppement.md)  
+- [**R3.03** : Analyse (Cadrage des exigences agiles) : **the *right* product**](https://github.com/iblasquez/enseignement-but2-developpement/blob/master/R303_Analyse_CadrageAgile.md)  
+- [**R3.04** : Qualité de développement (SOLID, Design patterns, tests, refactoring) : **the product *right***](https://github.com/iblasquez/enseignement-but2-developpement/blob/master/R304_QualiteDeveloppement.md)  
 
 ### BUT Informatique 3ème année  
 
