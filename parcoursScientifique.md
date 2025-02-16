@@ -19,16 +19,26 @@
   Atelier ludique pour découvrir les différentes étapes du développement logiciel à travers une approche interactive basée sur des briques de construction.  
   🔗 [🎥 Reportage sur l'événement *Why Women Code* - Limoges 2024](https://www.youtube.com/watch?v=ynZ4bui4O8M)  
 
-## 📌 2020-2024
+## 📚 2023
+
+- 🤝 *Conception et mise en place des enseignements de la deuxième année du BUT Informatique*  
+  🔗 [BUT2 : Analyse (*right* product) (R3.03) & Qualité de développement (product *right*) (R3.04)](https://github.com/iblasquez/enseignement-but1-developpement)
+
+## 📚 2022
+
+- 🤝 *Conception et mise en place des enseignements de la première année du BUT Informatique*  
+  🔗 [BUT1 : Développement Orienté Objet (R2.01) & Qualité de développement (R2.03)](https://github.com/iblasquez/enseignement-but1-developpement)
+
+## 📌 2020-2022
 
 ✦ *Interruption des productions scientifiques suite à la prise de poste de chef de département, suivie d'un burnout.*
 
-## 2020
+## 📚 2020
 
 - 🤝*Kit pour faciliter le kata TripService : Kata Trip Service réalisé petit pas par petit pas*  
   🔗 [Kit de facilitation](https://github.com/iblasquez/trip-service-kata)
 
-## 2019
+## 📚 2019
 
 - 🎨**Opéramix à l'Opéra de Limoges**  
   Participation en tant que facilitatrice à cet hackathon créatif de 3 jours au sein de l'Opéra de Limoges, du **20 au 22 septembre 2019**.  
