@@ -59,7 +59,7 @@ Par ailleurs, je m'investis dans la diffusion de la culture numérique et la pro
   → Atelier interactif utilisant des briques de construction pour illustrer les différentes étapes du développement logiciel *(initialement conçu pour les JPO de l'IUT du Limousin)*.  
 
 - [**Parcours d'énigmes numériques au Musée de la Résistance**](https://codeweek.eu/blog/code-week-in-limoges-a-sabotage-mission)  
-  → Expérience réée pour la *Code Week*, combinant histoire et logique numérique.  
+  → Expérience créée pour la *Code Week*, combinant histoire et logique numérique.  
 
 ### 🎭 **Engagement associatif**  
 
@@ -74,7 +74,7 @@ Par ailleurs, je m'investis dans la diffusion de la culture numérique et la pro
 
 ## 📄 **Productions scientifiques**  
 
-🔎 **[📑 Rétrospective de mon parcours scientifique : Recherche, synergies et médiation](parcoursScientifique.md)**  
+🔎 **[📑 Rétrospective de mon parcours scientifique : Recherche, synergie et médiation](parcoursScientifique.md)**  
 
 ### 📚 **Publications académiques et travaux de recherche**  
 

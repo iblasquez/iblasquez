@@ -1,4 +1,4 @@
-# Parcours scientifique : Recherche, synergies et médiation
+# Parcours scientifique : Recherche, synergie et médiation
 
 ## 📌 Légende  
 
