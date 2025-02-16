@@ -1,4 +1,4 @@
-# Parcours scientifique : Recherche, synergie et médiation
+# Parcours scientifique numérique : recherche, synergie et médiation
 
 ## 📌 Légende  
 
@@ -8,7 +8,7 @@
 
 ## 📚 2024  
 
-- 🤝*Tutoriel Copilot & Co : exploration de cas d’usage, des avantages et des limites d’un assistant de code basé sur la Gen AI.*  
+- 🤝*Tutoriel Copilot & Co : exploration de cas d'usage, des avantages et des limites d'un assistant de code basé sur la Gen AI.*  
   🔗 [Lire le tutoriel](https://github.com/iblasquez/tuto-copilot-genai)  
 
 - 📄🤝**Isabelle Blasquez and Clément Raynaud.** *Tester l'Ubiquitous Language dans le code : un nouveau prisme pour la qualité logicielle.*  
@@ -17,11 +17,11 @@
 
 - 🎨 *Développement logiciel de A à Z (Agile à Zoo)*  
   Atelier ludique pour découvrir les différentes étapes du développement logiciel à travers une approche interactive basée sur des briques de construction.  
-  🔗 [🎥 Reportage sur l'événement *Why Women Code* – Limoges 2024](https://www.youtube.com/watch?v=ynZ4bui4O8M)  
+  🔗 [🎥 Reportage sur l'événement *Why Women Code* - Limoges 2024](https://www.youtube.com/watch?v=ynZ4bui4O8M)  
 
 ## 📌 2020-2024
 
-✦ *Pause dans les productions scientifiques en raison d’une prise de fonction en tant que cheffe de département, suivie d’une période de burnout.*  
+✦ *Interruption des productions scientifiques suite à la prise de poste de chef de département, suivie d'un burnout.*
 
 ## 2020
 
@@ -60,7 +60,7 @@
 ## 📚 2017  
 
 - 📄🤝**Isabelle Blasquez and Hervé Leblanc.** *Specification by example for educational purposes.*  
-  In *Proceedings of the 2017 ACM Conference on Innovation and Technology in Computer Science Education* (ITiCSE ’17), pages 212-217, New York, NY, USA, 2017. ACM.  
+  In *Proceedings of the 2017 ACM Conference on Innovation and Technology in Computer Science Education* (ITiCSE '17), pages 212-217, New York, NY, USA, 2017. ACM.  
 
 - 📄🤝**Isabelle Blasquez, Hervé Leblanc, and Christian Percebois.** *Les tests dans le développement logiciel, du cycle en V aux méthodes agiles.*  
   *Technique et Science Informatiques*, 36(1-2):7-50, 2017.  
@@ -106,14 +106,14 @@
 ## 📚 2013  
 
 - 📄🤝**Isabelle Blasquez and David Gageot.** *Lignes de production agiles.*  
-  Animation d’un groupe de travail lors de la *2ème édition des Journées Nationales du Développement Logiciel (JDEV), 2013*.  
+  Animation d'un groupe de travail lors de la *2ème édition des Journées Nationales du Développement Logiciel (JDEV), 2013*.  
 
 - 📄🤝**Isabelle Blasquez and Hervé Leblanc.** *Développement dirigé par les user stories (Behavioral Driven Development).*  
   Atelier présenté à la *2ème édition des Journées Nationales du Développement Logiciel (JDEV), 2013*.  
   🔗 [Détails de l'atelier](https://github.com/iblasquez/tuto_bdd_jbehave)  
 
-- 📄🤝**Isabelle Blasquez.** *Bilan d’une décennie agile au travers d'Innovation Games.*  
-  Animation d’un groupe de travail lors de la *2ème édition des Journées Nationales du Développement Logiciel (JDEV), 2013*.
+- 📄🤝**Isabelle Blasquez.** *Bilan d'une décennie agile au travers d'Innovation Games.*  
+  Animation d'un groupe de travail lors de la *2ème édition des Journées Nationales du Développement Logiciel (JDEV), 2013*.
 
 - 📄🤝Organisation **journées #iutagile**, IUT Aix-en-Provence, Février 2013
 
@@ -134,15 +134,19 @@
   
 ## 📌 2009  
 
-✦ *Pause dans les activités de publication en recherche suite à deux congés maternité, à la fermeture du laboratoire LICN, puis à une réorientation progressive vers de nouveaux axes de recherche et de médiation scientifique.*  
+✦ *Interruption des publications de recherche suite à la fermeture du laboratoire LICN, suivie d'une réorientation vers de nouvelles thématiques et synergies avant une reprise progressive autour de nouveaux axes de recherche.*
 
 ## 📚 2008  
 
 - 📄**Isabelle Blasquez, Pierre Fournier, and Jean-François Poiraudeau.** *Minkowski fonctionals on a hexagonal tessellation.*  
   In *SIAM Conference Discrete Mathematic*, University of Vermont, 2008.  
 
-- 📄**Isabelle Blasquez, Pierre Fournier, and Jean-François Poiraudeau.** *Cartographie de l’ensemble des convexes 3D et les mesures de Minkowski.*  
-  In *Colloque national de la recherche universitaire en IUT (CNR’IUT 2008)*, Lyon, France, mai 2008.  
+- 📄**Isabelle Blasquez, Pierre Fournier, and Jean-François Poiraudeau.** *Cartographie de l'ensemble des convexes 3D et les mesures de Minkowski.*  
+  In *Colloque national de la recherche universitaire en IUT (CNR'IUT 2008)*, Lyon, France, mai 2008.  
+
+## 📌 2005-2007
+
+✦ *Pause des publications de recherche suite à deux congés maternité.*
 
 ## 📚 2004  
 
@@ -152,10 +156,10 @@
 ## 📚 2003  
 
 - 📄**Isabelle Blasquez and Jean-François Poiraudeau.** *Efficient processing of Minkowski functionals on a 3D binary image using binary decision diagrams.*  
-  In *The 11th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision’2003 (WSCG 2003)*, in co-operation with EUROGRAPHICS and IFIP working group 5.10 on Computer Graphics and Virtual Worlds, University of West Bohemia, Campus Bory, Plzen-Bory, Czech Republic, February 3-7, 2003.  
+  In *The 11th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision'2003 (WSCG 2003)*, in co-operation with EUROGRAPHICS and IFIP working group 5.10 on Computer Graphics and Virtual Worlds, University of West Bohemia, Campus Bory, Plzen-Bory, Czech Republic, February 3-7, 2003.  
 
 - 📄**Isabelle Blasquez and Jean-François Poiraudeau.** *Comment dénombrer le nombre de faces, arêtes, sommets pour un objet 3D discrétisé de manière optimale ?*  
-  In *Colloque national de la recherche universitaire en IUT (CNR’IUT 2003)*, Tarbes, France, mai 2003.  
+  In *Colloque national de la recherche universitaire en IUT (CNR'IUT 2003)*, Tarbes, France, mai 2003.  
 
 ## 📚 2002  
 
@@ -170,7 +174,7 @@
 - 📄**Jean-François Poiraudeau and Isabelle Blasquez.** *Morphological Functionals of Spatial Patterns.*  
   In *SIAM Conference on Geometric Design and Computing*, November 5-8, 2001, Sacramento, CA.  
 
-- 📄**Isabelle Blasquez.** *Généralisation du tampon de profondeur étendu : application à la simulation d’usinage.*  
+- 📄**Isabelle Blasquez.** *Généralisation du tampon de profondeur étendu : application à la simulation d'usinage.*  
   PhD thesis, Université de Limoges, 2001.  
 
 ## 📚 2000  
@@ -178,8 +182,8 @@
 - 📄**Isabelle Blasquez and Jean-François Poiraudeau.** *The interval treap: a complete data structure for the extended z-buffer.*  
   In *Proceedings of Spring Conference on Computer Graphics and Its Applications*, pages 247-255, 2000.  
 
-- 📄**Isabelle Blasquez and Jean-François Poiraudeau.** *Amélioration des performances du z-buffer étendu à l’aide des skip lists.*  
-  In *Colloque national de la recherche universitaire en IUT (CNR’IUT 2000)*, Bourges, France, juin 2000.  
+- 📄**Isabelle Blasquez and Jean-François Poiraudeau.** *Amélioration des performances du z-buffer étendu à l'aide des skip lists.*  
+  In *Colloque national de la recherche universitaire en IUT (CNR'IUT 2000)*, Bourges, France, juin 2000.  
 
 ## 📚 1999  
 
@@ -190,4 +194,4 @@
 
 - 📄**Isabelle Blasquez**  
   *Système hybride de diagnostic en temps réel à base de réseaux de neurones et de logique floue appliqué à la conduite automobile.*  
-  Stage de fin d’études et de DEA au **LAAS-CNRS Toulouse**.  
+  Stage de fin d'études et de DEA au **LAAS-CNRS Toulouse**.  
