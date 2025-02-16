@@ -2,7 +2,7 @@
 
 ***Passionnée par le génie logiciel et le développement agile, je navigue entre le monde académique et professionnel pour connecter enseignement et pratiques concrètes.  
 Mes cours s'appuient sur les méthodes actuelles du développement logiciel afin d'offrir un apprentissage ancré dans la réalité du métier.  
-J'anime également des initiatives pour diffuser la culture informatique et encourager la diversité dans les métiers techniques.***  
+Par ailleurs, je m'investis dans la diffusion de la culture numérique et la promotion de la diversité dans les métiers techniques.***  
 
 🌱 **En ce moment, je m'intéresse à l'IA générative et aux LLM et regroupe les ressources que je trouve intéressantes [ici](https://github.com/iblasquez/ia-generative).**  
 ✍️ Je viens d'écrire un [tutoriel sur la prise en main d'un assistant de code basé sur l'IA générative : Copilot & Co](https://github.com/iblasquez/tuto-copilot-genai), qui présente différents cas d'usage ainsi que les avantages et limites d'un tel outil.  
@@ -25,48 +25,65 @@ J'anime également des initiatives pour diffuser la culture informatique et enco
 
 ## 🔬 Recherche  
 
-### 🔎 Thématiques actuelles  
+### Thématique actuelle  
+
+📌 [Qualité de code & analyse sémantique : suivi de l'Ubiquitous Language](https://github.com/iblasquez/ubiquitous-langage-code-quality)  
+
+### Mots clés
 
 - *Software Engineering, Software Quality, Software Testing, Code Analysis*  
 - *Agile Software Development, Agile Requirements, Domain-Driven Design*  
 - *Ubiquitous Language, Behavior-Driven Development, Example Mapping, Test-Driven Development*  
 - *Computer Science Education*  
 
-📄 **Publications** :  
+## 🌍 **Synergie entre le monde académique et professionnel**  
 
-- 🔗 [ORCID](https://orcid.org/0009-0001-1529-7885)  
-- 🔗 [HAL-Science IRIT](https://hal.science/IRIT/search/index/q/*/authFullName_s/Isabelle%20Blasquez)  
-- 🔗 [Anciennes thématiques (LICN) : Modélisation géométrique & Géométrie intégrale](https://iblasquez.github.io)  
+### 🚀 **Fondatrice et Animatrice du [LimouziCodev](https://limouzico.dev/) : La communauté Craft en Limousin**  
 
-## 🎭 Médiation et diffusion de la culture scientifique  
+- 📍 *Coding Dojo* **tous les 15 jours**, le jeudi à **18h30** dans les locaux de l’**Aliptic (au Hub)**  
+- 💬 **Échangez avec la communauté sur Discord** via [LimouziCodev](https://limouzico.dev/)  
 
-### 🌍 Synergie entre le monde académique et professionnel  
+### 🎤 **Oratrice dans des conférences nationales destinées aux professionnels du développement logiciel**  
 
-#### 🚀 **LimouziCodev : la communauté Craft en Limousin**  
+- Agile Pays Basque, Agile Bordeaux, Bdx.io, Agile Toulouse, Agile Grenoble, Devoxx France, MixIt, ...  
 
-- **Fondatrice et animatrice du [LimouziCodev](https://limouzico.dev/)**  
-- 📍 *Coding Dojo* tous les 15 jours, le jeudi à 18h30 dans les locaux de l'Aliptic (au Hub).  
-- 💬 **Échangez avec la communauté sur Discord** accessible via [LimouziCodev](https://limouzico.dev/).  
+### 📂 **Partage de nombreuses ressources sur GitHub**  
 
-#### 🎤 **Oratrice dans des événements nationaux pour développeurs**  
+- 🔗 [🌍 Explorez mes dépôts](https://github.com/iblasquez?tab=repositories)  
 
-- 🏗️ [**Sensibilisation aux bonnes pratiques techniques du Software Craftsmanship : Lego® à la rescousse !**](https://github.com/iblasquez/atelier-bonnes-pratiques-tdd-lego)  
-- 🧩 [**Découvrir Event Storming et le quotidien des développeurs**](https://github.com/iblasquez/atelier-event-storming-scratch)  
-- 🕵️ [**Tester l'Ubiquitous Language dans le code : un nouveau prisme pour la qualité logicielle**](https://github.com/iblasquez/ubiquitous-langage-code-quality)  
+## 🎭 **Médiation et diffusion de la culture scientifique**  
 
-### 💡 Sensibilisation du grand public et promotion de la diversité  
+### 🎨 **Sensibilisation et vulgarisation scientifique**  
 
-- **Conceptrice et facilitatrice d'activités ludiques et pédagogiques pour le grand public** :  
-  - 🛠️ [**Développement logiciel de A à Z (Agile à Zoo)**](https://www.youtube.com/watch?v=ynZ4bui4O8M) *(pour Why Women Code)* :  
-    Exploration des différentes étapes du développement logiciel à travers une approche ludique et interactive basée sur des briques de construction.  
-  - 🕵️‍♂️ [**Parcours d'énigmes numériques au Musée de la Résistance**](https://codeweek.eu/blog/code-week-in-limoges-a-sabotage-mission) *(pour Code Week, avec MuseomixLim)*.  
+- [**Développement logiciel de A à Z (Agile à Zoo)**](https://www.youtube.com/watch?v=ynZ4bui4O8M)  
+  → Atelier interactif utilisant des briques de construction pour illustrer les différentes étapes du développement logiciel *(initialement conçu pour les JPO de l'IUT du Limousin)*.  
 
-- **Engagement associatif** :  
-  - Membre de [MuseomixLim](https://www.museomixlim.fr)  
-  - Ambassadrice de la [Code Week](https://codeweek.eu/community?country_iso=FR) *(2014-2020)*  
-  - Membre de la team [Duchess France](https://www.duchess-france.fr/) *(2012-2020)*  
+- [**Parcours d'énigmes numériques au Musée de la Résistance**](https://codeweek.eu/blog/code-week-in-limoges-a-sabotage-mission)  
+  → Expérience réée pour la *Code Week*, combinant histoire et logique numérique.  
 
-## 📌 Ressources & Contacts  
+### 🎭 **Engagement associatif**  
+
+- **Animation d'ateliers lors d'événements** :  
+  → [*Code Week*](https://codeweek.eu)  
+  → [*Why Women Code*](https://www.youtube.com/watch?v=ynZ4bui4O8M)  
+
+- **Participation à des communautés et associations** :  
+  → Membre de [MuseomixLim](https://www.museomixlim.fr)  
+  → Ambassadrice de la [Code Week](https://codeweek.eu/community?country_iso=FR) *(2014-2020)*  
+  → Membre de la team [Duchess France](https://www.duchess-france.fr/) *(2012-2020)*  
+
+## 📄 **Productions scientifiques**  
+
+🔎 **[📑 Rétrospective de mon parcours scientifique : Recherche, synergies et médiation](parcoursScientifique.md)**  
+
+### 📚 **Publications académiques et travaux de recherche**  
+
+- 📰 [**Publications HAL-Science IRIT** – Développement logiciel agile](https://hal.science/IRIT/search/index/q/*/authFullName_s/Isabelle%20Blasquez)  
+- 📐 [**Publications sur les anciennes thématiques (LICN)** – Modélisation géométrique & Géométrie intégrale](https://iblasquez.github.io)  
+
+<!-- - 🔗 [🌍 ORCID](https://orcid.org/0009-0001-1529-7885) -->  
+
+## 📌 Contacts  
 
 - 🔗 [**LinkedIn**](https://www.linkedin.com/in/isabelle-blasquez-9b377023)  
 <!-- - 📄 [**CV court**](CV_Blasquez.pdf)  -->
