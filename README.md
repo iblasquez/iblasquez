@@ -49,7 +49,7 @@ Par ailleurs, je m'investis dans la diffusion de la culture numérique et la pro
 
 ### 📂 **Partage de nombreuses ressources sur GitHub**  
 
-- 🔗 [🌍 Explorez mes dépôts](https://github.com/iblasquez?tab=repositories)  
+- 🔗 [Explorez mes dépôts](https://github.com/iblasquez?tab=repositories)  
 
 ## 🎭 **Médiation et diffusion de la culture scientifique**  
 
@@ -74,7 +74,7 @@ Par ailleurs, je m'investis dans la diffusion de la culture numérique et la pro
 
 ## 📄 **Productions scientifiques**  
 
-🔎 **[📑 Rétrospective de mon parcours scientifique : Recherche, synergie et médiation](parcoursScientifique.md)**  
+🔎 **[📑 Rétrospective de mon parcours scientifique : Recherche, synergie et médiation](parcoursScientifiqueNumerique.md)**  
 
 ### 📚 **Publications académiques et travaux de recherche**  
 

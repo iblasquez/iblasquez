@@ -17,9 +17,13 @@
 
 - 🎨 *Développement logiciel de A à Z (Agile à Zoo)*  
   Atelier ludique pour découvrir les différentes étapes du développement logiciel à travers une approche interactive basée sur des briques de construction.  
-  🔗 [🎥 Reportage sur l'événement *Why Women Code* - Limoges 2024](https://www.youtube.com/watch?v=ynZ4bui4O8M)  
+  🔗 [🎥 Reportage sur l'événement *Why Women Code (and more)* - France 3 Limousin](https://www.youtube.com/watch?v=ynZ4bui4O8M)
+  🔗 [Retour en images sur l'opération *Why Women Code (and more)* - EchoSciences Nouvelle-Aquitaine](https://echosciences.nouvelle-aquitaine.science/articles/retour-en-images-sur-l-operation-why-women-code-and-more-realisee-a-la-maison-des-arts-et-de-la-danse-limoges-le-9-avril-dernier)
 
 ## 📚 2023
+
+- 🎨 [Why Women Code (and More)](https://www.aliptic.net/actu/actions-why-women-code-and-more.html)
+Premières participations en tant que rôle modèle et animatrice d'ateliers. L’opération Why Women Code (and More) est une initiative de la French Tech limousine portée et organisée par l'[ALIPTIC](https://www.aliptic.net/).
 
 - 🤝 *Conception et mise en place des enseignements de la deuxième année du BUT Informatique*  
   🔗 [BUT2 : Analyse (*right* product) (R3.03) & Qualité de développement (product *right*) (R3.04)](https://github.com/iblasquez/enseignement-but1-developpement)
@@ -110,7 +114,7 @@
 
 - 🎨Animation des premiers **ateliers d'initiation à la programmation pour les enfants** dans le cadre de la Code Week et **premiers blogs sur Duchess France**  
   🔗 [Retour sur les ateliers](https://www.duchess-france.fr/developper/duchess-agit/2014/11/05/retour-sur-les-ateliers-de-code-animes-par-duchess-france-pendant-la-code-week.html)  
-  🔗 [Interview Adeline, étudiante](https://www.duchess-france.fr/developper/duchess-agit/2014/11/05/retour-sur-les-ateliers-de-code-animes-par-duchess-france-pendant-la-code-week.html)  
+  🔗 [Interview Adeline, étudiante](https://www.duchess-france.fr/developper/duchess-agit/2014/11/05/interview-dadeline-animatrice-dateliers-pour-enfants-pendant-la-code-week.html)  
   🔗 [Interview Delphine, enseignante](https://www.duchess-france.fr/developper/duchess-agit/2014/11/05/code-week-interview-de-delphine-enseignante-en-ce1.html)
 
 ## 📚 2013  
@@ -133,9 +137,13 @@
 
 - 📄🤝**Création du compte [GitHub iblasquez](https://github.com/iblasquez)**  
   Partage de supports de cours, d'ateliers, de tutoriels et de bibliographies.  
-  🔗 [🗂️ Explorer les différents repositories](https://github.com/iblasquez?tab=repositories)
+  🔗 [Explorer les différents repositories](https://github.com/iblasquez?tab=repositories)
 
 ## 📚 2010-2012
+
+- 🤝 **Integration de la team de [Duchess France](https://www.duchess-france.fr)**
+Créée en 2010, Duchess France est une association destinée à valoriser et promouvoir les développeuses et les femmes avec des profils technique, leur donner plus de visibilité, mais aussi à faire connaître ces métiers technique et créer de nouvelles vocations.
+🔗 [Rôle modèle](https://www.duchess-france.fr/les-portraits/2010/09/14/portrait-isabelle-blasquez.html)
 
 - 🤝**Organisation de conférences thématiques ouvertes à tous** avec des intervenants reconnus dans leur domaine, ouvertes à tous, au département Informatique de l'IUT du Limousin.  
   Ces événements avaient pour objectif de **réunir professionnels, enseignants et étudiants** autour de sujets tels que les **méthodes agiles, les forges logicielles, le cloud computing**, etc.  
