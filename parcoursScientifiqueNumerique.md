@@ -6,6 +6,11 @@
 - **🤝 Synergie entre le monde académique et professionnel**
 - **🎨 Médiation scientifique grand public**
 
+## 📚 2025  
+
+- 📄**Isabelle Blasquez.** *Developing Critical Thinking with AI Coding Assistants: An Educational Experience Focusing on Testing and Legacy Code*  
+***A paraître***  *Proceedings of the ACM Conference on Innovation and Technology in Computer Science Education* (ITiCSE 2025)
+
 ## 📚 2024  
 
 - 🤝*Tutoriel Copilot & Co : exploration de cas d'usage, des avantages et des limites d'un assistant de code basé sur la Gen AI.*  
