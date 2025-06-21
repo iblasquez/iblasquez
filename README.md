@@ -5,8 +5,9 @@ Mes cours s'appuient sur les méthodes actuelles du développement logiciel afin
 Par ailleurs, je m'investis dans la diffusion de la culture numérique et la promotion de la diversité dans les métiers techniques.***  
 
 🌱 **En ce moment, je m'intéresse à l'IA générative et aux LLM et regroupe les ressources que je trouve intéressantes [ici](https://github.com/iblasquez/ia-generative).**  
-✍️ Je viens d'écrire un [tutoriel sur la prise en main d'un assistant de code basé sur l'IA générative : Copilot & Co](https://github.com/iblasquez/tuto-copilot-genai), qui présente différents cas d'usage ainsi que les avantages et limites d'un tel outil.  
-📄 S'appuyant sur ce tutoriel, l'article ***Developing Critical Thinking with AI Coding Assistants: An Educational Experience Focusing on Testing and Legacy Code*** sera prochainement publié à la conférence [**ITiCSE 2025**](https://iticse.acm.org/2025).
+✍️ A l'automne 2024, j'ai écrit [tutoriel sur la prise en main d'un assistant de code basé sur l'IA générative : Copilot & Co](https://github.com/iblasquez/tuto-copilot-genai), qui présente différents cas d'usage ainsi que les avantages et limites d'un tel outil et qui a donné lieu à un article à [ITiCSE 2025](https://iticse.acm.org/2025) :  **[Developing Critical Thinking with AI Coding Assistants: An Educational Experience Focusing on Testing and Legacy Code](https://dl.acm.org/doi/10.1145/3724363.3729050)**.
+
+🎤 Retrouvez la keynote **[Bon Voyage en agilité!](https://github.com/iblasquez/bon-voyage-en-agilite)** donnée lors de l'Agile Tour Toulouse 2025.
 
 ## 📚 Enseignement autour du génie logiciel et du développement agile  
 
