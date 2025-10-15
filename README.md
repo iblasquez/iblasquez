@@ -4,10 +4,11 @@
 Mes cours s'appuient sur les méthodes actuelles du développement logiciel afin d'offrir un apprentissage ancré dans la réalité du métier.  
 Par ailleurs, je m'investis dans la diffusion de la culture numérique et la promotion de la diversité dans les métiers techniques.***  
 
-🌱 **En ce moment, je m'intéresse à l'IA générative et aux LLM et regroupe les ressources que je trouve intéressantes [ici](https://github.com/iblasquez/ia-generative).**  
-✍️ A l'automne 2024, j'ai écrit [tutoriel sur la prise en main d'un assistant de code basé sur l'IA générative : Copilot & Co](https://github.com/iblasquez/tuto-copilot-genai), qui présente différents cas d'usage ainsi que les avantages et limites d'un tel outil et qui a donné lieu à un article à [ITiCSE 2025](https://iticse.acm.org/2025) :  **[Developing Critical Thinking with AI Coding Assistants: An Educational Experience Focusing on Testing and Legacy Code](https://dl.acm.org/doi/10.1145/3724363.3729050)**.
-
-🎤 Retrouvez la keynote **[Bon Voyage en agilité!](https://github.com/iblasquez/bon-voyage-en-agilite)** donnée lors de l'Agile Tour Toulouse 2025.
+🌱 **En ce moment, j'explore l’adoption et l’impact de l’intelligence artificielle dans les métiers du développement logiciel.**.  
+💡J’ai commencé par regrouper [ici](https://github.com/iblasquez/ia-generative) une sélection de ressources que je trouvais intéressantes.  
+✍️ A l'automne 2024, j'ai écrit [tutoriel sur la prise en main d'un assistant de code basé sur l'IA générative : Copilot & Co](https://github.com/iblasquez/tuto-copilot-genai), qui présente différents cas d'usage ainsi que les avantages et limites d'un tel outil et qui a donné lieu à un article à [ITiCSE 2025](https://iticse.acm.org/2025) :  **[Developing Critical Thinking with AI Coding Assistants: An Educational Experience Focusing on Testing and Legacy Code](https://dl.acm.org/doi/10.1145/3724363.3729050)**.  
+🧭 Cette démarche s’est prolongée à l’automne 2025 avec une présentation lors des Demi-Journées Pédagogiques sur l’IA générative à l’IUT du Limousin, intitulée **[Retours d'eXpériences pédagogiques : Soyons critiques face à l’usage des LLM](https://github.com/iblasquez/presentation-rex-pedagogie-usage-llm)**, et dédiée à l’exploration et au partage d’expériences autour des modèles de langage.  
+<!--🔍 En ce moment, j’essaye d’en savoir plus sur la représentation des [relations sémantiques à travers les embeddings](https://www.youtube.com/watch?v=r4EtRfHSU7E).-->
 
 ## 📚 Enseignement autour du génie logiciel et du développement agile  
 
@@ -48,6 +49,8 @@ Par ailleurs, je m'investis dans la diffusion de la culture numérique et la pro
 ### 🎤 **Oratrice dans des conférences nationales destinées aux professionnels du développement logiciel**  
 
 - Agile Pays Basque, Agile Bordeaux, Bdx.io, Agile Toulouse, Agile Grenoble, Devoxx France, MixIt, ...  
+
+- Retrouvez la **keynote** **[Bon Voyage en agilité!](https://github.com/iblasquez/bon-voyage-en-agilite)** donnée lors de l'**[Agile Tour Toulouse 2025](https://tour.agiletoulouse.fr)**.
 
 ### 📂 **Partage de nombreuses ressources sur GitHub**  
 

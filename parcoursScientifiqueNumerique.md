@@ -8,8 +8,17 @@
 
 ## 📚 2025  
 
+- 📄🤝**Isabelle Blasquez** *Retours d’eXpériences pédagogiques : Soyons critiques face à l’usage des LLM.*  
+  Présentation lors des 3ᵉ Demi-Journées Pédagogiques sur l’IA générative destinées aux enseignants de l’IUT du Limousin - Septembre 2025  
+  🔗 [Présentation](https://github.com/iblasquez/presentation-rex-pedagogie-usage-llm)
+
 - 📄**Isabelle Blasquez.** *Developing Critical Thinking with AI Coding Assistants: An Educational Experience Focusing on Testing and Legacy Code*  
-***A paraître***  *Proceedings of the ACM Conference on Innovation and Technology in Computer Science Education* (ITiCSE 2025)
+In *Proceedings of the 30th ACM Conference on Innovation and Technology in Computer Science Education* (ITiCSE 2025), pages 500-506, New York, NY, USA, 2025. ACM.  
+  🔗 [Article](https://dl.acm.org/doi/10.1145/3724363.3729050)
+
+- 📄🤝**Isabelle Blasquez** *Bon voyage en Agilité !*  
+Keynote d'ouverture de l' Agile Tour Toulouse 2025.  
+  🔗 [Présentation](https://github.com/iblasquez/bon-voyage-en-agilite)
 
 ## 📚 2024  
 
@@ -57,9 +66,11 @@ Premières participations en tant que rôle modèle et animatrice d'ateliers. L�
 
 - 📄🤝**Isabelle Blasquez and Hervé Leblanc.** *Experience in learning test-driven development: Space Invaders project-driven.*  
   In *Proceedings of the 28th Annual ACM Conference on Innovation and Technology in Computer Science Education* (ITiCSE 2018), pages 111-116, New York, NY, USA, 2018. ACM.  
+  🔗 [Article](https://hal.science/hal-03619924/document)
 
 - 📄🤝**Isabelle Blasquez and Hervé Leblanc.** *A guideline to teach agile requirements.*  
   In *Proceedings of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education* (ITiCSE 2018), pages 360-361, New York, NY, USA, 2018. ACM.  
+  🔗 [Article](https://hal.science/hal-02064221v1/document)
 
 - 🤝*Tutoriel de prise en main de Cucumber pour coder des tests Behavior Driven Development avec Java : recette aux concombres pour débutant.*  
   Publié sur *Developpez.com*.  
@@ -80,9 +91,11 @@ Premières participations en tant que rôle modèle et animatrice d'ateliers. L�
 
 - 📄🤝**Isabelle Blasquez and Hervé Leblanc.** *Specification by example for educational purposes.*  
   In *Proceedings of the 2017 ACM Conference on Innovation and Technology in Computer Science Education* (ITiCSE '17), pages 212-217, New York, NY, USA, 2017. ACM.  
+  🔗 [Article](https://hal.science/hal-03624716v1/document)
 
 - 📄🤝**Isabelle Blasquez, Hervé Leblanc, and Christian Percebois.** *Les tests dans le développement logiciel, du cycle en V aux méthodes agiles.*  
   *Technique et Science Informatiques*, 36(1-2):7-50, 2017.  
+  🔗 [Article](https://hal.science/hal-02864393v1/document)
 
 ## 📚 2016  
 
