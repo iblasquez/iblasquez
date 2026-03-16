@@ -1,6 +1,6 @@
 # 🎓 Maître de conférences - Université de Limoges / IUT du Limousin  
 
-***Passionnée par le génie logiciel et le développement agile, je navigue entre le monde académique et professionnel pour connecter enseignement et pratiques concrètes.  
+***Spécialiste de l'ingénierie logicielle agile, je navigue entre le monde académique et professionnel pour connecter enseignement et pratiques concrètes.  
 Mes cours s'appuient sur les méthodes actuelles du développement logiciel afin d'offrir un apprentissage ancré dans la réalité du métier.  
 Par ailleurs, je m'investis dans la diffusion de la culture numérique et la promotion de la diversité dans les métiers techniques.***  
 
@@ -24,7 +24,7 @@ Par ailleurs, je m'investis dans la diffusion de la culture numérique et la pro
 
 ### BUT Informatique 3ème année  
 
-- **R6.06** : Maintenance applicative  
+- [**R6.06** : Maintenance applicative](https://github.com/iblasquez/enseignement-but3-maintenance-applicative)
 
 ## 🔬 Recherche  
 
